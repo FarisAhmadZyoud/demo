@@ -26,7 +26,7 @@ class test {
 	} 
 	
 	@AfterClass 
-	public static void tearDown(){ 
+	public static void tear(){ 
 		
 	}
 
